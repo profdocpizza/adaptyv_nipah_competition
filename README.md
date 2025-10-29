@@ -1,3 +1,5 @@
+![alt text](https://en.wikipedia.org/wiki/Nipah_virus_infection#/media/File:Henipavirus_structure.svg)
+
 # 🧬 Adaptyv Bio – Nipah Binder Competition
 
 ## 🎯 Task
