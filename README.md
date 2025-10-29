@@ -37,13 +37,14 @@ Focus: Extracellular domain (residues 71–602)
 [Competition Page](https://proteinbase.com/competitions/adaptyv-nipah-competition)
 
 
-# Installation
+# Download Files
 ```
-git clone https://github.com/{{github.repository}}.git
-cd {{repo_name}}
+git clone https://github.com/profdocpizza/adaptyv_nipah_competition.git
+cd adaptyv_nipah_competition
 ```
-download crystal_structures
+download relevant crystal_structures:
 ```
 bash download_crystal_structures.sh
 ```
+read what they are in [crystal_structures.md](crystal_structures.md)
 
